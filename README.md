@@ -15,7 +15,7 @@ A binance trading bot that can buy or sell tokens based on TradingView webhook t
 Clone this repository into your computer
 
 ```
-git clone git@github.com:TheAcademyDigital/goldapp.git
+git clone https://github.com/bhavman2/binance-bot.git
 ```
 
 Install dependencies.
